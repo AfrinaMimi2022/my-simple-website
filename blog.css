@@ -1,6 +1,11 @@
 body{
     margin: 5%;
 }
+
+div{
+    background-color: aquamarine;
+    height: 50%;
+}
 li{
     color: blueviolet;
     font-style: italic;
