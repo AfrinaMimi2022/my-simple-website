@@ -1,0 +1,15 @@
+body{
+    margin: 5%;
+}
+li{
+    color: blueviolet;
+    font-style: italic;
+}
+h2{
+    color: rgb(39, 138, 42);
+    font-weight: bolder;
+}
+h3{
+    color: rgb(124, 33, 33);
+    font-weight: bold;
+}
